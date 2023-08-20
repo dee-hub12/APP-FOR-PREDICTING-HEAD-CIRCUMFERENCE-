@@ -1,2 +1,4 @@
 # APP-FOR-PREDICTING-HEAD-CIRCUMFERENCE-
-Are you curious about predicting head circumference in low birthweight infants? Our interactive app is designed to help you explore and understand the intricate relationships between various factors that influence head circumference.
+Are you curious about predicting head circumference in low birthweight infants? Our interactive app is designed to help you explore and understand the intricate relationships between various factors that influence head circumference. Whether you're a medical professional, researcher, or just someone interested in this crucial aspect of infant health, this app offers insights and predictions that can help you gain valuable insights.
+
+Infant health is a subject of paramount importance, and one vital indicator of a child's well-being is head circumference. Our app delves into the data from a comprehensive dataset of 100 low birthweight infants, born in prestigious Boston teaching hospitals. By utilizing multiple linear regression, we unravel the complex interplay between birth weight, gestational age, sex, and other key factors that contribute to head circumference.
